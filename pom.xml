@@ -50,4 +50,11 @@
             </plugin>
         </plugins>
     </build>
+    <distributionManagement>
+        <repository>
+            <id>Nexusnagaraj</id>
+            <name>Nexusnagaraj</name>
+            <url>http://35.200.141.204:8081/repository/Nexusnagaraj</url>
+        </repository>
+    </distributionManagement>    
 </project>
